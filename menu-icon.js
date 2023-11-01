@@ -1,4 +1,3 @@
-// JavaScript to toggle the visibility of the navbar on menu icon click
 const menuIcon = document.createElement('div');
 menuIcon.className = 'menu-icon';
 menuIcon.id = 'menu-icon';
